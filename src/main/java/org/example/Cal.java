@@ -19,7 +19,7 @@ public class Cal {
         return i;
 }
 
-    public int squ(int tringValue) {
-        return (int) Math.pow(tringValue,2);
+    public int squ(int staringValue) {
+        return (int) Math.pow(staringValue,2);
     }
 }
